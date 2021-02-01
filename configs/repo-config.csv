@@ -1,5 +1,5 @@
 Repository's Location,Branch,File formats,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List
-https://github.com/reposense/RepoSense.git,,,,,,
+https://github.com/reposense/RepoSense.git,,,,yes,,
 https://github.com/knotstoks/iwonbyalot.git,,asset;cs;prefab;unity,,,,
 https://github.com/gerhean/multasko-frontend.git,,,public/**,,,
 https://github.com/gerhean/gerhean_hugo_site.git,,,resources/**;static/**;themes/**,,,
@@ -7,3 +7,4 @@ https://github.com/gerhean/duke.git,,,gradle/**,,,
 https://github.com/AY1920S2-CS2103T-F10-2/main.git,,,gradle/**,,,
 https://github.com/gerhean/orbital-flex.git,,,assets/**,,,
 https://github.com/source-academy/cadet-frontend.git,,,,,,
+https://github.com/source-academy/sicp.git,,,,,,
