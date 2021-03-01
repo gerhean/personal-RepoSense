@@ -1,8 +1,8 @@
-Mar 01, 2021 4:51:42 AM reposense.parser.CsvParser parse
+Mar 01, 2021 4:52:32 AM reposense.parser.CsvParser parse
 WARNING: Error parsing line 2 in CSV file, repo-config.csv.
 Content: https://github.com/gerhean/RepoSense,,,,,,
 Error: https://github.com/gerhean/RepoSense is an invalid location.
-Mar 01, 2021 4:51:42 AM reposense.RepoSense main
+Mar 01, 2021 4:52:32 AM reposense.RepoSense main
 WARNING: No valid configurations in the repo-config.csv.
 reposense.parser.InvalidCsvException: No valid configurations in the repo-config.csv.
 	at reposense.parser.CsvParser.parse(CsvParser.java:95)
