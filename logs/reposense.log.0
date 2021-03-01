@@ -1,166 +1,166 @@
-Mar 01, 2021 4:51:17 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:07 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/knotstoks/iwonbyalot.git...
-Mar 01, 2021 4:51:17 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:07 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/knotstoks/iwonbyalot.git to complete...
-Mar 01, 2021 4:51:20 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:10 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/knotstoks/iwonbyalot.git completed!
-Mar 01, 2021 4:51:20 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:10 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/gerhean/orbital-flex.git...
-Mar 01, 2021 4:51:20 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:10 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/9] Analyzing https://github.com/knotstoks/iwonbyalot.git (master)...
-Mar 01, 2021 4:51:20 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:10 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/knotstoks/iwonbyalot.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:51:20 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:10 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/knotstoks/iwonbyalot.git (master)...
-Mar 01, 2021 4:51:20 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:11 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/knotstoks/iwonbyalot.git (master)...
-Mar 01, 2021 4:51:21 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:11 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/knotstoks/iwonbyalot.git (master)...
-Mar 01, 2021 4:51:23 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:13 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/knotstoks/iwonbyalot.git (master) completed!
-Mar 01, 2021 4:51:23 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:13 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/gerhean/orbital-flex.git to complete...
-Mar 01, 2021 4:51:23 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:13 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/gerhean/orbital-flex.git completed!
-Mar 01, 2021 4:51:23 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:13 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/gerhean/multasko-frontend.git...
-Mar 01, 2021 4:51:23 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:13 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [2/9] Analyzing https://github.com/gerhean/orbital-flex.git (master)...
-Mar 01, 2021 4:51:23 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:14 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/gerhean/orbital-flex.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:51:23 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:14 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/gerhean/orbital-flex.git (master)...
-Mar 01, 2021 4:51:24 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:14 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/gerhean/orbital-flex.git (master)...
-Mar 01, 2021 4:51:24 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:14 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/gerhean/orbital-flex.git (master)...
-Mar 01, 2021 4:51:26 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:16 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/gerhean/orbital-flex.git (master) completed!
-Mar 01, 2021 4:51:26 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:16 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/gerhean/multasko-frontend.git to complete...
-Mar 01, 2021 4:51:26 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:16 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/gerhean/multasko-frontend.git completed!
-Mar 01, 2021 4:51:26 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:16 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/gerhean/gerhean_hugo_site.git...
-Mar 01, 2021 4:51:26 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:16 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [3/9] Analyzing https://github.com/gerhean/multasko-frontend.git (master)...
-Mar 01, 2021 4:51:26 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:16 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/gerhean/multasko-frontend.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:51:26 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:16 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/gerhean/multasko-frontend.git (master)...
-Mar 01, 2021 4:51:26 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:16 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/gerhean/multasko-frontend.git (master)...
-Mar 01, 2021 4:51:26 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:16 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/gerhean/multasko-frontend.git (master)...
-Mar 01, 2021 4:51:28 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:17 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/gerhean/multasko-frontend.git (master) completed!
-Mar 01, 2021 4:51:28 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:17 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/gerhean/gerhean_hugo_site.git to complete...
-Mar 01, 2021 4:51:28 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:17 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/gerhean/gerhean_hugo_site.git completed!
-Mar 01, 2021 4:51:28 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:17 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY1920S2-CS2103T-F10-2/main.git...
-Mar 01, 2021 4:51:28 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:17 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [4/9] Analyzing https://github.com/gerhean/gerhean_hugo_site.git (master)...
-Mar 01, 2021 4:51:28 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:18 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/gerhean/gerhean_hugo_site.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:51:28 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:18 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/gerhean/gerhean_hugo_site.git (master)...
-Mar 01, 2021 4:51:28 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:18 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/gerhean/gerhean_hugo_site.git (master)...
-Mar 01, 2021 4:51:28 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:18 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/gerhean/gerhean_hugo_site.git (master)...
-Mar 01, 2021 4:51:29 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:18 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/gerhean/gerhean_hugo_site.git (master) completed!
-Mar 01, 2021 4:51:29 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:18 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY1920S2-CS2103T-F10-2/main.git to complete...
-Mar 01, 2021 4:51:30 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:20 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY1920S2-CS2103T-F10-2/main.git completed!
-Mar 01, 2021 4:51:30 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:20 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/source-academy/cadet-frontend.git...
-Mar 01, 2021 4:51:30 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:20 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [5/9] Analyzing https://github.com/AY1920S2-CS2103T-F10-2/main.git (master)...
-Mar 01, 2021 4:51:30 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:20 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY1920S2-CS2103T-F10-2/main.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:51:30 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:20 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY1920S2-CS2103T-F10-2/main.git (master)...
-Mar 01, 2021 4:51:31 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:21 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY1920S2-CS2103T-F10-2/main.git (master)...
-Mar 01, 2021 4:51:31 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:21 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/AY1920S2-CS2103T-F10-2/main.git (master)...
-Mar 01, 2021 4:51:41 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:31 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY1920S2-CS2103T-F10-2/main.git (master) completed!
-Mar 01, 2021 4:51:41 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:31 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/source-academy/cadet-frontend.git to complete...
-Mar 01, 2021 4:51:41 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:31 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/source-academy/cadet-frontend.git completed!
-Mar 01, 2021 4:51:41 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:31 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/reposense/RepoSense.git...
-Mar 01, 2021 4:51:41 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:31 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [6/9] Analyzing https://github.com/source-academy/cadet-frontend.git (master)...
-Mar 01, 2021 4:51:42 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:31 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/source-academy/cadet-frontend.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:51:42 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:31 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/source-academy/cadet-frontend.git (master)...
-Mar 01, 2021 4:51:42 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:31 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/source-academy/cadet-frontend.git (master)...
-Mar 01, 2021 4:51:42 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:31 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/source-academy/cadet-frontend.git (master)...
-Mar 01, 2021 4:51:56 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:46 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/source-academy/cadet-frontend.git (master) completed!
-Mar 01, 2021 4:51:56 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:46 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/reposense/RepoSense.git to complete...
-Mar 01, 2021 4:51:56 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:46 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/reposense/RepoSense.git completed!
-Mar 01, 2021 4:51:56 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:46 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/gerhean/duke.git...
-Mar 01, 2021 4:51:56 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:46 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [7/9] Analyzing https://github.com/reposense/RepoSense.git (master)...
-Mar 01, 2021 4:51:56 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:46 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: Ignoring standalone config file in https://github.com/reposense/RepoSense.git (master).
-Mar 01, 2021 4:51:56 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:46 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/reposense/RepoSense.git (master)...
-Mar 01, 2021 4:51:57 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:46 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/reposense/RepoSense.git (master)...
-Mar 01, 2021 4:51:57 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:46 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/reposense/RepoSense.git (master)...
-Mar 01, 2021 4:52:03 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:52 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/reposense/RepoSense.git (master) completed!
-Mar 01, 2021 4:52:03 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:52 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/gerhean/duke.git to complete...
-Mar 01, 2021 4:52:03 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:52 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/gerhean/duke.git completed!
-Mar 01, 2021 4:52:03 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 01, 2021 4:53:52 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/source-academy/sicp.git...
-Mar 01, 2021 4:52:03 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:53:52 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [8/9] Analyzing https://github.com/gerhean/duke.git (master)...
-Mar 01, 2021 4:52:03 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:53:52 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/gerhean/duke.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:52:03 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:53:52 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/gerhean/duke.git (master)...
-Mar 01, 2021 4:52:03 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:53:52 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/gerhean/duke.git (master)...
-Mar 01, 2021 4:52:03 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:53:52 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/gerhean/duke.git (master)...
-Mar 01, 2021 4:52:04 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:53:53 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/gerhean/duke.git (master) completed!
-Mar 01, 2021 4:52:04 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:53:53 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/source-academy/sicp.git to complete...
-Mar 01, 2021 4:53:01 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 01, 2021 4:54:46 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/source-academy/sicp.git completed!
-Mar 01, 2021 4:53:01 AM reposense.report.ReportGenerator analyzeRepos
+Mar 01, 2021 4:54:46 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [9/9] Analyzing https://github.com/source-academy/sicp.git (master)...
-Mar 01, 2021 4:53:01 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 01, 2021 4:54:46 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/source-academy/sicp.git (master) does not contain a standalone config file.
-Mar 01, 2021 4:53:01 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 01, 2021 4:54:46 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/source-academy/sicp.git (master)...
-Mar 01, 2021 4:53:01 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 01, 2021 4:54:47 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/source-academy/sicp.git (master)...
-Mar 01, 2021 4:53:01 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Mar 01, 2021 4:54:47 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/source-academy/sicp.git (master)...
-Mar 01, 2021 4:53:20 AM reposense.report.ReportGenerator analyzeRepo
+Mar 01, 2021 4:55:06 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/source-academy/sicp.git (master) completed!
-Mar 01, 2021 4:53:20 AM reposense.report.ReportGenerator generateReposReport
+Mar 01, 2021 4:55:06 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/runner/work/personal-RepoSense/personal-RepoSense/reposense-report
-Mar 01, 2021 4:53:20 AM reposense.RepoSense main
-INFO: Elapsed processing time: 2 minute(s) 3.75 second(s)
+Mar 01, 2021 4:55:06 AM reposense.RepoSense main
+INFO: Elapsed processing time: 1 minute(s) 59.76 second(s)
