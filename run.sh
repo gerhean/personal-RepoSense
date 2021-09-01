@@ -13,5 +13,6 @@
 # Do not change the default output folder name (reposense-report)
 ## Examples of other valid options; For more, please view the user guide
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
+# 
 
 java -jar RepoSense.jar --config ./configs --since d1 --timezone UTC+08
